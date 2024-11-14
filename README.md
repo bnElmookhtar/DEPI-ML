@@ -1,7 +1,3 @@
-Here's a sample README file for a GitHub repository containing Python notebooks for a machine learning course on Azure as part of the Digital Egypt Pioneers Initiative (DEPI).
-
----
-
 # ML-Azure DEPI Course Notebooks
 
 Welcome to the **ML-Azure DEPI Course Notebooks** repository! This repository contains a collection of Jupyter notebooks covering various Python lessons for machine learning, as part of the **Digital Egypt Pioneers Initiative (DEPI)** course on Microsoft Azure. These notebooks are designed to support learners with practical, hands-on examples for understanding Python fundamentals, data handling, and machine learning concepts.
