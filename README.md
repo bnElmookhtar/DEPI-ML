@@ -4,7 +4,7 @@ Welcome to the **ML-Azure DEPI Course Notebooks** repository! This repository co
 
 ## Repository Structure
 
-- **Python Basics**: Introduction to Python syntax, data types, and control structures.
+- **Python Basics**: Introduction to Python syntax, data types,conditions,functions and control structures.
 
 ## Getting Started
 
@@ -45,6 +45,7 @@ To use these notebooks locally, follow these steps:
 ## Notebooks Overview
 
 - **Practice ^_^.ipynb**: Covers basic syntax, data types, lists, loops, and functions.
+- **Practice_functions ^_^.ipynb**: Covers lists comprehension, and functions(lambda,higher order, ----).
 
 
 ## License
