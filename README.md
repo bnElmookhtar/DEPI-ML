@@ -40,12 +40,14 @@ To use these notebooks locally, follow these steps:
 
 - **Python 3.6+**
 - **Jupyter Notebook**
+- ** numpy 1.26.4+**
 - Recommended: Basic knowledge of Python .
 
 ## Notebooks Overview
 
 - **Practice ^_^.ipynb**: Covers basic syntax, data types, lists, loops, and functions.
 - **Practice_functions ^_^.ipynb**: Covers lists comprehension, and functions(lambda,higher order, ----).
+- **numpy_functions.ipynb**: Covers the basic numpy functions like ones,zeros,random and arrays 
 
 
 ## License
